@@ -1,0 +1,16 @@
+#Program to take user details and print formatted output
+Id = int(input("Enter your Id no : "))
+Name = input("Enter your Full name : ")
+Email = input("Enter your Email : ")
+Mobail_no = int(input("Enter your mobail no : "))
+Address = input("Enter your Address : ")
+City = input("Enter your City : ")
+
+print("\n")
+print("******* User Detail *******")
+print("User Id : ",Id)
+print("Name : ",Name)
+print("Email Id : ",Email)
+print("Mobail No : ",Mobail_no)
+print("Address : ",Address)
+print("City : ",City)
