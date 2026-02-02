@@ -11,3 +11,4 @@ print(next(it))
 print(next(it))
 print(next(it))
 print(next(it))  # when values finish StopIteration error
+# when values finish StopIteration error
