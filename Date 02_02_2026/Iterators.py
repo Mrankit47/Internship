@@ -10,5 +10,5 @@ it = iter(number)
 print(next(it))
 print(next(it))
 print(next(it))
-print(next(it))  # when values finish StopIteration error
+print(next(it))  
 # when values finish StopIteration error
